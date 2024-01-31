@@ -1,14 +1,5 @@
 {
-  "users": [
-    {
-      "email": "olivier@mail.com",
-      "password": "$2a$10$w3SCm1Zh/ODJ/O1vDgfFou8cMNnWbP/2LVUlv07kjmH67RQUHX/fa",
-      "role": "employee",
-      "profile": "",
-      "name": "olivier",
-      "department": "Core",
-      "id": 1
-    }
-  ],
-  "todos": []
+  "users": [],
+  "absenceRequestDetails": [],
+  "gallery": []
 }
